@@ -18,11 +18,4 @@
 
 • file - Indicando tipo de arquivo 
 
-***Git***
-
-Estados
-• Modificado (modified);
-
-• reparado (staged/index)
-
-• Consolidado (comitted);
+***GIT***
